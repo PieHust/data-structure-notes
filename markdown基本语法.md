@@ -63,3 +63,16 @@ Computer | $1600
 Phone    | $12
 Pipe     | $1
 ```
+
+### 数学公式
+```markdown 
+图片地址 http://chart.googleapis.com/chart?cht=tx&chl= 在此插入Latex公式
+![公式](地址)
+![公式](http://chart.googleapis.com/chart?cht=tx&chl=\Large%20x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+```
+![公式](http://chart.googleapis.com/chart?cht=tx&chl=\Large%20x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+
+
+
+
+
